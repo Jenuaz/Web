@@ -41,10 +41,12 @@ few empty or void tags that cannot enclose any text, for instance:
 
 You can extend HTML tags with attributes, which provide additional information affecting how 
 the browser interprets the element:
-	Opening tag		  Closing tag
+```html
+<!--
+      Opening tag		  Closing tag
 ________________________	      ___ 
 |		       |             |   |
-```html
+-->
 <p class="anyclassname"> Hellow world!</p>
 ```		
 
