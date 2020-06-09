@@ -30,4 +30,21 @@ a community that maintains and develops web standards, including DOM, Fetch, and
 of Apple, Mozilla and Opera estabilished WHATWG in 2004). Thanks for WHATWG, work on HTML5
 continued: the two organizations released the first draft in 2008 and the final standard in 2014.
  
+# Concept and syntax
+
+HTML document is a plaintext document srtuctured with elements. Elements are currounded by
+matching opening and closing tags. Each tag begins and ends with angle brackets(<>). There are 
+few empty or void tags that cannot enclose any text, for instance: 
+```html
+<img>
+```
+
+You can extend HTML tags with attributes, which provide additional information affecting how 
+the browser interprets the element:
+	Opening tag		  Closing tag
+________________________	      ___ 
+|		       |             |   |
+```html
+<p class="anyclassname"> Hellow world!</p>
+```		
 
