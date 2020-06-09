@@ -6,6 +6,7 @@ the following year through a markup mainly based on **SGML**(The Standard Genera
 Language - is an ISO specification for defining declarative markup languages. On the web HTML,
 XHTML and XML are popilar SGML-based languages. It is worth noting that since its fifth edition
 HTML no longer SGML-based and has its own parsing rules).
+
 The **IETF**(The Internet Engineering Task Force - is worldwide organization that drafts spe -
 cifications governing the mechanisms behind the INternet, especially the TCP/IP or Internet
 Protocol Suite. The IETF is open, run by volunteers, and sponsored by the Internet Society)
@@ -15,11 +16,13 @@ body that maintains Web-related rules and frameworks. It consist of over 350 mem
 that jointly develop Web standards, run outreach programs, and maintain an open forum for talking
 about the Web. The W3C coordinates companies in the industry to make sure they implement the W3C
 standards. Each standard passes through four stages:
--Working Draft(WD)
--Candidate Recommendation (CR)
--Proposed Recommendation(PR)
--W3C Recommendation(REC)
-) to develop the Web. In 1996, the W3C took over the HTML work and published the HTML 3.2 
+- Working Draft(WD)
+- Candidate Recommendation (CR)
+- Proposed Recommendation(PR)
+- W3C Recommendation(REC)
+) to develop the Web. 
+
+In 1996, the W3C took over the HTML work and published the HTML 3.2 
 recommendation a year later. HTML 4.0 was released in 1999 and became an ISO standard in 2000.
 At that time, the W3C nearly abandoned HTML in favor of XHTML, prompting the founding of an
 idependent group called **WHATWG**(The Web Hypertext Application Technology Working Group is
