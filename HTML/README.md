@@ -52,5 +52,8 @@ ________________________	      ___
 	An attribute	 Enclosed text 
 	and it's value	  content
 -->
-```		
+```
+
+HTML file noramally saved with an .htm or .html extensions, served bby a web server, and can be
+rendered by any Web browser.		
 
