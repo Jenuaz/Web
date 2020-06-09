@@ -48,5 +48,9 @@ ________________________	      ___
 |		       |             |   |
 -->
 <p class="anyclassname"> Hellow world!</p>
+<!-- |________________|  |___________|
+	An attribute	 Enclosed text 
+	and it's value	  content
+-->
 ```		
 
